@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdbssla97&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdbssla97&langs_count=10&layout=compact&theme=dark)](https://github.com/gkdbssla97/gkdbssla97)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gkdbssla97})](https://solved.ac/{gkdbssla97})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayoon)](https://solved.ac/gkdbssla97/)
 
