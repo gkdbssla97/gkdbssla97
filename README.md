@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Welcome%20to%20visit&fontSize=80&animation=fadeIn&fontAlignY=38&desc=This%20is%20HAYOON's%20Archive%20&descAlignY=55&descAlign=80)
-# 프로필
+# 하 윤
+### 일상 속 모두에게 편리함을 줄 수 있는 백엔드 개발자를 지향합니다.
+> 배움의 나눔으로 성장을, '개발자가 어렵고 힘들수록 사용자가 편리하다'는 일념을 가지고 있습니다. </br>
+최적화와 성능 개선, 일관성을 고려해 모두에게 안정적이고 편리한 경험을 제공하기 위해 노력합니다.
+# 🧑🏻‍💻 프로필
 ### 사용 기술
 #### 🔨 Languages & Platforms
 <p>
@@ -36,10 +39,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/>
 </p>
 
+# 🌱 성장
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdbssla97&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdbssla97&langs_count=10&layout=compact&theme=dark)](https://github.com/gkdbssla97/gkdbssla97)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdbssla97)](https://solved.ac//gkdbssla97)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdbssla97)](https://solved.ac//gkdbssla97) [![코드트리|실력진단-gkdbssla97](https://banner.codetree.ai/v1/banner/gkdbssla97)](https://www.codetree.ai/profiles/gkdbssla97)
 
-[![코드트리|실력진단-gkdbssla97](https://banner.codetree.ai/v1/banner/gkdbssla97)](https://www.codetree.ai/profiles/gkdbssla97)
+# ✏️ 기록
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gkdbssla97)](https://github.com/gkdbssla97/gkdbssla97)
