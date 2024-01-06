@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00003F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
+  <img src="https://img.shields.io/badge/MySQL-00003F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-41015F?style=for-the-badge&logo=mybatis&logoColor=white"></a> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
