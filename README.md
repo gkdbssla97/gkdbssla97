@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdbssla97&langs_count=10&layout=compact&theme=dark)](https://github.com/gkdbssla97/gkdbssla97)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdbssla97)](https://solved.ac//gkdbssla97) [![코드트리|실력진단-gkdbssla97](https://banner.codetree.ai/v1/banner/gkdbssla97)](https://www.codetree.ai/profiles/gkdbssla97)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdbssla97)](https://solved.ac//gkdbssla97)
 
 # ✏️ 기록
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gkdbssla97)](https://velog.io/@gkdbssla97)
