@@ -48,15 +48,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-004088?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)"/>
 <!--   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/> -->
-  <img src="https://img.shields.io/badge/-ElasticSearch-0DBD8B?style=for-the-badge&logo=elasticsearch&logoColor=F7FF0A)"/>
+<!--   <img src="https://img.shields.io/badge/-ElasticSearch-0DBD8B?style=for-the-badge&logo=elasticsearch&logoColor=F7FF0A)"/>
   <img src="https://img.shields.io/badge/-Logstash-F2CC38?style=for-the-badge&logo=Logstash&logoColor=F7FF0A)"/>
-  <img src="https://img.shields.io/badge/-Kibana-C925D1?style=for-the-badge&logo=kibana&logoColor=F7FF0A)"/>
+  <img src="https://img.shields.io/badge/-Kibana-C925D1?style=for-the-badge&logo=kibana&logoColor=F7FF0A)"/> -->
 </p>
 
 # 🌱 성장
@@ -65,6 +64,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdbssla97&langs_count=10&layout=compact&theme=dark)](https://github.com/gkdbssla97/gkdbssla97)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdbssla97)](https://solved.ac//gkdbssla97)
-
-# ✏️ 기록
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gkdbssla97)](https://velog.io/@gkdbssla97)
