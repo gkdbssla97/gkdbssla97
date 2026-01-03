@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 # 🧑🏻‍💻 프로필
 ### 경력
-- PTKOREA Back-end Developer [2024.06.17 - 현재]
+- AhnLab Back-end Developer [2026.02.02 - 현재]
+- PTKOREA Back-end Developer [2024.06.17 - 2025.01.30]
 - ATON Back-end Server Developer 인턴십 [2023.03.01 - 2023.05.31]
 ### 이력
 - 코테이토 서울 SW 연합 동아리 운영진 [2022.07.01 - 2022.08.31]
